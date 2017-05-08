@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BDReborn
+cd $HOME/AntiSpamBot
 
 install() {
 	    cd tg
