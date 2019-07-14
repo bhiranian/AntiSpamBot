@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd $HOME/AntiSpamBot
-
+hello ay ok wait for the new setting !!!
 install() {
 	    cd tg
 		sudo add-apt-repository ppa:ubuntu-toolchain-r/test
